@@ -1,0 +1,2 @@
+            # else:
+            #     ciphertext += char
